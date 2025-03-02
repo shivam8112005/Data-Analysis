@@ -9,8 +9,8 @@ DataVista is a data analysis tool that allows users to clean, analyze, and visua
   - Generates correlation matrices for numerical columns.  
   - Provides first and last five rows for quick data preview.  
 - **Custom Analysis**:  
-  - Analyze relationships between two numerical columns.  
-  - Explore insights between a numerical and a categorical column.  
+  - Analyze relationships between two numerical columns (Bivariate Analysis).  
+  - Explore insights of a categorical column (categorical Data Analysis).  
 - **Visualization (Optional)**:  
   - Generates histograms, bar charts, pie charts, and word clouds for string columns.  
   - Displays a heatmap for correlation analysis.  
@@ -37,3 +37,8 @@ DataVista is a data analysis tool that allows users to clean, analyze, and visua
 2. **Install dependencies:**  
    ```bash
    pip install pandas numpy matplotlib seaborn tabulate wordcloud
+
+  ## 📽️ Demo (Video)
+  [Video](https://drive.google.com/file/d/1QfAERU83-w-Afb1uwLRVIRkjCRqn8vUi/view?usp=drive_link)
+
+ 
