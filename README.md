@@ -23,8 +23,7 @@ DataVista is a data analysis tool that allows users to clean, analyze, and visua
 - **Python** (Core Programming)  
 - **Pandas** (Data Manipulation)  
 - **NumPy** (Numerical Computations)  
-- **Matplotlib** (Visualization)  
-- **Seaborn** (Advanced Plotting)  
+- **Matplotlib** (Visualization)   
 - **Tabulate** (Formatted Data Representation)  
 - **WordCloud** (Text Analysis)  
 
